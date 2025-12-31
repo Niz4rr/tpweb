@@ -8,7 +8,7 @@ But du TP
 
 Structure recommandée
 ```
-MonApp/
+tpweb4/
 ├── App.js
 ├── README.md
 └── screens/
